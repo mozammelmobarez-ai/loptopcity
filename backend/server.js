@@ -683,6 +683,7 @@ app.get('/api/stats', auth, adminOnly, (req, res) => {
 // پیدا کردن پوشه فرانت‌اند بیلد شده
 function findFrontendDir() {
   const candidates = [
+    path.join(__dirname, 'dist'),
     path.join(__dirname, 'public'),           // backend/public
     path.join(__dirname, '..', 'dist'),        // ../dist (خروجی Vite)
     path.join(__dirname, '..', 'build'),       // ../build (خروجی CRA)
