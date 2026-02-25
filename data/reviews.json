@@ -1,0 +1,47 @@
+[
+  {
+    "id": "review-001",
+    "userId": "user-001",
+    "userName": "کاربر تست",
+    "productId": null,
+    "rating": 5,
+    "comment": "بسیار عالی! محصولات با کیفیت و ارسال سریع. کاملاً راضی هستم.",
+    "createdAt": "2024-02-05T09:00:00.000Z"
+  },
+  {
+    "id": "review-002",
+    "userId": "user-001",
+    "userName": "احمد رحیمی",
+    "productId": "prod-001",
+    "rating": 5,
+    "comment": "لپ‌تاپ فوق‌العاده‌ای است! برای بازی و کارهای سنگین عالی عمل می‌کند.",
+    "createdAt": "2024-02-08T11:30:00.000Z"
+  },
+  {
+    "id": "review-003",
+    "userId": "user-001",
+    "userName": "فاطمه محمدی",
+    "productId": "prod-002",
+    "rating": 5,
+    "comment": "مک‌بوک پرو بهترین خرید زندگیم بود. سرعت و کیفیت ساخت عالی!",
+    "createdAt": "2024-02-12T16:45:00.000Z"
+  },
+  {
+    "id": "review-004",
+    "userId": "user-001",
+    "userName": "علی حسینی",
+    "productId": "prod-005",
+    "rating": 4,
+    "comment": "با توجه به قیمت، عملکرد خوبی دارد. برای کارهای روزمره کافی است.",
+    "createdAt": "2024-02-15T08:20:00.000Z"
+  },
+  {
+    "id": "review-005",
+    "userId": "user-001",
+    "userName": "زهرا کریمی",
+    "productId": "prod-003",
+    "rating": 5,
+    "comment": "صفحه نمایش OLED این لپ‌تاپ واقعاً خیره‌کننده است!",
+    "createdAt": "2024-02-18T13:10:00.000Z"
+  }
+]

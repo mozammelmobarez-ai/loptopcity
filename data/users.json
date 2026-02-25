@@ -1,0 +1,18 @@
+[
+  {
+    "id": "admin-001",
+    "name": "مدیر سیستم",
+    "email": "admin",
+    "password": "$2a$10$o/eHe7U/WM4dvRV2uwBYneXeYbOMfZiGcKvHNdmS2kqUt0BYbnyou",
+    "role": "admin",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-001",
+    "name": "کاربر تست",
+    "email": "user@example.com",
+    "password": "$2a$10$Y0JRBCuk8r9XSFGCZRDcK.LYsVSWadOwz7yoW9Pq2fl953KAR5VhK",
+    "role": "user",
+    "createdAt": "2024-01-15T00:00:00.000Z"
+  }
+]
